@@ -2,9 +2,9 @@ import graph from '../../assets/Graph.svg';
 import chat from '../../assets/Chat.svg';
 import chart from '../../assets/Chart.svg';
 import user from '../../assets/User.svg';
-import document from '../../assets/document.svg';
-import danger from '../../assets/danger.svg';
-import setting from '../../assets/setting.svg';
+import document from '../../assets/Document.svg';
+import danger from '../../assets/Danger.svg';
+import setting from '../../assets/Setting.svg';
 
 const Links = () => {
   return (
